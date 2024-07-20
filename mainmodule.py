@@ -12,3 +12,5 @@
 
 # for u in gen(10):
 #     print(u)
+
+print("commit")
